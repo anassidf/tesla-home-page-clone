@@ -1,0 +1,32 @@
+.button_left {
+  width: 250px;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(0, 0, 0);
+  opacity: 0.8;
+  border-radius: 50px;
+}
+.button_right {
+  width: 250px;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(194, 194, 194);
+  opacity: 0.8;
+  border-radius: 50px;
+}
+
+.button_left a {
+  text-decoration: none;
+  color: rgb(194, 194, 194);
+  font-size: 14px;
+}
+
+.button_right a {
+  font-size: 14px;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
